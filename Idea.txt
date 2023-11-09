@@ -1,0 +1,7 @@
+My buddy wants to launch his own record label, as well
+as resell records through the same website. I figure
+I will create an api and frontend for that end and kill
+two birds with one stone. The site will be feature complete with
+the ability for admins to add records to the database, sorting and searching by label,
+genre, year, etc. And I will attempt to implement square into it as well
+for the purpose of buying said records.
